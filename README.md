@@ -137,4 +137,4 @@ There is no possible adjustment to the policy that could work.
 Whatever the embargo period is, the student will just submit to arXiv _n_ + 1 days in advance.
 If we start making the length of the embargo period too long, we run into the case where (for example) ACL notification period overlaps with the embargo period for EMNLP.
 At that point, we've effectively outlawed arXiv for unpublished work.
-I don't hear anyone in the community advocating for this.
+This is a minority viewpoint per the [Report on ACL Survey on Preprint Publishing and Reviewing](https://stp.lingfil.uu.se/~nivre/docs/SurveyReportFinal.pdf) (page 31).
