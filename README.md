@@ -12,7 +12,6 @@ I'm happy to discuss but that's a separate issue.
 My entire argument is that this policy is **ineffective**. Explained as follows:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And as I&#39;ve pointed out several times: the *ACL policy only works for the initial creation of the paper. If a paper is rejected, the authors will naturally post on arXiv, so blind review is defeated the next conference cycle. We just delayed our impact for no good reason.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/999099753286615040?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And:
 
@@ -27,24 +26,29 @@ As far as I'm aware, these "two human failings" are unverified assumptions.
 People will search while reviewing and unwittingly unblind papers.
 And no, you simply *cannot* prescribe how reviewers conduct their reviews (i.e., "try not to search..."). It's enforceable.
 
+I think if you're going to take away someone's right (in this case, to freely post on arXiv), there had better be some evidence that this imposition accomplishes some good.
+I see hand-waving.
+I don't see empirical evidence.
+
 ## My Proposal
 
 Given that background, I've clearly stated:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think everyone is misunderstanding me: I&#39;m not opposed to blind review. It has advantages but it is by no means perfect. What annoys me is the attitude that everyone treats blind review as sacrosanct, the sole source of truth in an axiomatic, inviolable manner.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1000812604904824832?ref_src=twsrc%5Etfw">May 27, 2018</a></blockquote>
 
-Now, in the spirit of being constructive, I'll propose a completely opposite approach: let's give up on blind review and be explicit about the signals that may lead to implicit bias, and then explicitly correct for them.
+Now, in the spirit of being constructive, I'll propose a completely opposite approach: let's give up on blind review and be explicit about the signals that may lead to implicit bias, and then correct for them.
 This approach is predicated on there being substantial research on implicit biases and how to combat then.
+(And there is!)
 
 Under this proposal, a conference would do something like this:
 
 + All conference officers (PC chairs, SPC, etc.) must take mandatory training that discusses diversity, inclusivity, implicit bias, etc.
 + Conference officers are empowered during mandatory in-person SPC meetings to correct for any biases they encounter, based on the above training.
 + The paper submission system *explicitly* gathers all features that we might imagine to be relevant to diversity, inclusivity, implicit bias, etc. (e.g., h-index, gender, L2 vs. L1).
-+ We make available for decision making, accumulated over time, analyses that are pertinent to decision making, like the [WSDM experiment](http://www.pnas.org/content/114/48/12708).
++ We make available for decision making, accumulated over time, empirical evidence with respect to implicit biases, like the [WSDM experiment](http://www.pnas.org/content/114/48/12708).
 
-Under this proposal, there are absolutely no restrictions against arXiv submission, flag-planting, shameless self-promotion on social media, etc.
-There will, however, be consequences.
+Under this proposal, there are absolutely no restrictions against arXiv submissions, flag-planting, shameless self-promotion on social media, etc.
+There will, however, be consequences (see below).
 
 ## How This Would Work
 
@@ -53,10 +57,10 @@ The major change happens at the *in-person* PC meeting (and I believe the *in-pe
 The SPC members examine all papers and make adjustments to combat implicit bias:
 
 + Based on the diversity, inclusivity, implicit bias, etc. training they have received.
-+ Based on the accumulated evidence on effective strategies to handle diversity, inclusivity, implicit bias, etc. issues. This means the techniques will be refined and improved over time.
++ Based on prior evidence and empirically validated strategies (by other researchers) to handle diversity, inclusivity, implicit bias, etc. issues. This means the techniques will be refined and improved over time.
 
 In other words, we empower the SPC members (or PC chairs, etc.) to _override_ reviews based on their training and judgment.
-Or even stronger: we _expect_ the SPC members to correct for implicit and hold them accountable.
+Or even stronger: we _expect_ the SPC members to correct for implicit bias and hold them accountable.
 
 Let's, for the sake of concreteness, assume that the SPC uses the "checklist approach" (although there are other effective techniques as well). The checklist approach attempts to make explicit the decision-making process so as to ensure that decisions are made equitably (for whatever definition of equity the community decides to adopt).
 
@@ -66,7 +70,7 @@ Then I'd imagine that discussions at the in-person meeting might include the fol
 
 + Paper 342 was reviewed by two second-year Ph.D. students who don't seem to have a solid command of the literature, and as a result we believe there is a "famous author" effect at work here. Despite the high scores, we're going to reject the paper.
 * Paper 1934 has a review that exhibits sexist undertones regarding the topic of study. This is inappropriate and so we are going to discount the negative review and accept the paper.
-+ Paper 908 has one review that isn't substantive, and is critical based solely on relatively superficial grammatical mistakes. We're going to recommend a native-speaker editing pass, but otherwise accept the paper because we think the underlying ideas are solid. (Even better, if the conference has a shepherding process, then we make the copyediting mandatory).
++ Paper 908 has one review that isn't substantive, and is critical based solely on relatively superficial grammatical mistakes. We're going to recommend a native-speaker editing pass, but otherwise accept the paper because we think the underlying ideas are solid. (Even better, if we add a shepherding process, we make the copyediting mandatory).
 + Paper 85 makes exaggerated novelty claims that went unchallenged because the paper came from a prestigious institution, but in our opinion, the methodology is shoddy. Despite the high scores, we're going to reject.
 
 Note that under this model authors can shamelessly flag-plant all they want on arXiv, but they will be held accountable if they do shoddy science.
