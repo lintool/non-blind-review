@@ -26,6 +26,7 @@ It's unenforceable.
 I think if you're going to take away someone's right (in this case, to freely post on arXiv), there had better be some evidence that this imposition accomplishes some good.
 I see hand waving.
 I don't see empirical evidence.
+And yes, I believe the burden of proof rests with those who seek to restrict the actions others, not the other way around.
 
 ## My Proposal
 
@@ -33,7 +34,7 @@ Given that background, I've clearly stated:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think everyone is misunderstanding me: I&#39;m not opposed to blind review. It has advantages but it is by no means perfect. What annoys me is the attitude that everyone treats blind review as sacrosanct, the sole source of truth in an axiomatic, inviolable manner.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1000812604904824832?ref_src=twsrc%5Etfw">May 27, 2018</a></blockquote>
 
-Now, in the spirit of being constructive, I'll propose a completely opposite approach: let's give up on blind review and be explicit about the signals that may lead to implicit bias, and then correct for them.
+Now, in the spirit of being constructive, I'll propose a completely opposite approach: **let's give up on blind review and be explicit about the signals that may lead to implicit bias, and then correct for them.**
 This approach is predicated on there being substantial research on implicit biases and how to combat then.
 (And there is!)
 
