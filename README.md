@@ -24,10 +24,11 @@ To which Chris Manning explained:
 This, IMO, is not sound evidence-based policy making.
 As far as I'm aware, these "two human failings" are unverified assumptions.
 People will search while reviewing and unwittingly unblind papers.
-And no, you simply *cannot* prescribe how reviewers conduct their reviews (i.e., "try not to search..."). It's enforceable.
+And no, you can't simply [prescribe how reviewers conduct their reviews](https://www.aclweb.org/adminwiki/index.php?title=ACL_Reviewer_Guidelines#Preserving_Double_Blind_Review) (i.e., "try not to search...").
+It's unenforceable.
 
 I think if you're going to take away someone's right (in this case, to freely post on arXiv), there had better be some evidence that this imposition accomplishes some good.
-I see hand-waving.
+I see hand waving.
 I don't see empirical evidence.
 
 ## My Proposal
@@ -74,6 +75,21 @@ Then I'd imagine that discussions at the in-person meeting might include the fol
 + Paper 85 makes exaggerated novelty claims that went unchallenged because the paper came from a prestigious institution, but in our opinion, the methodology is shoddy. Despite the high scores, we're going to reject.
 
 Note that under this model authors can shamelessly flag-plant all they want on arXiv, but they will be held accountable if they do shoddy science.
+
+## Why This Is Better
+
+I argue that my proposal is better because it replaces arbitrary non-evidence-based policies with scientifically sound strategies that can be refined over time.
+Even taking at face value this need to compromise between speed and bias, what's the optimal embargo period?
+Why a month?
+Is there evidence that forgetfulness "kicks in" after a month?
+In short, this requires parameter tuning, and we have absolutely no idea how to do it.
+Further evidence as to the arbitrary nature of this parameter is the fact that [Chris Manning's clarification of the policy](https://naacl2018.wordpress.com/2018/05/27/the-thinking-behind-the-acl-preprint-policy/) actually misstates the policy: he says "35 days".
+
+In contrast, under my proposal, we trust in the scientific evidence of our colleagues in the social sciences who study implicit bias for a living.
+For the sake of illustration, I've sketched out what the review process might look like with the "checklist approach".
+If there are better strategies, we'll adopt them.
+
+In short, we're replacing a non-evidence-based policy axe with the much more nuanced scalpel of human judgment that improves over time.
 
 ## Objections
 
