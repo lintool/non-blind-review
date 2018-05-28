@@ -13,10 +13,6 @@ My entire argument is that this policy is **ineffective**. Explained as follows:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And as I&#39;ve pointed out several times: the *ACL policy only works for the initial creation of the paper. If a paper is rejected, the authors will naturally post on arXiv, so blind review is defeated the next conference cycle. We just delayed our impact for no good reason.</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/999099753286615040?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
 
-And:
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hypothesis that new arXiv policy for *ACL simply pushes deadlines one month earlier. Look at the spike in arXiv cs.CL submissions last week, one month before NAACL 2018 long paper deadlines. Thanks to <a href="https://twitter.com/tuzhucheng?ref_src=twsrc%5Etfw">@tuzhucheng</a> for analysis! <a href="https://twitter.com/hashtag/NLProc?src=hash&amp;ref_src=twsrc%5Etfw">#NLProc</a> <a href="https://t.co/l18zHuI59k">pic.twitter.com/l18zHuI59k</a></p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/932729551326793730?ref_src=twsrc%5Etfw">November 20, 2017</a></blockquote>
-
 To which Chris Manning explained:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The <a href="https://twitter.com/ACL_NLP?ref_src=twsrc%5Etfw">@ACL_NLP</a> policy relies on 2 human failings: procrastination and forgetfulness. Everyone could finish papers 35 days before a deadline but few do. Some genuine preprints or previously rejected papers will be broadly available but people are less likely to remember authors. 7/</p>&mdash; Christopher Manning (@chrmanning) <a href="https://twitter.com/chrmanning/status/1000528110276624384?ref_src=twsrc%5Etfw">May 27, 2018</a></blockquote>
@@ -120,3 +116,24 @@ As a bonus, we also rotate these meetings to different parts of the globe to fur
 
 Agreed. I have no response to this.
 This actually happened to me recently.
+
+## Additional Arguments Why the arXiv Policy Is Ineffective
+
+I believe the steady state is as follows:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hypothesis that new arXiv policy for *ACL simply pushes deadlines one month earlier. Look at the spike in arXiv cs.CL submissions last week, one month before NAACL 2018 long paper deadlines. Thanks to <a href="https://twitter.com/tuzhucheng?ref_src=twsrc%5Etfw">@tuzhucheng</a> for analysis! <a href="https://twitter.com/hashtag/NLProc?src=hash&amp;ref_src=twsrc%5Etfw">#NLProc</a> <a href="https://t.co/l18zHuI59k">pic.twitter.com/l18zHuI59k</a></p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/932729551326793730?ref_src=twsrc%5Etfw">November 20, 2017</a></blockquote>
+
+Chris Manning would argue:
+
+> Everyone could finish their papers 35 _(sic)_ days before a deadline but in practice very few people do.
+
+To which I would respond: Let's consider a young, ambitious graduate student of a "famous author" who would benefit from unblinding.
+The student is cognizant of the advantages of purposely unblinding a submission.
+I think there would be significant motivation for the student to finish the paper early, since there is a very strong incentive.
+Then the student could flaunt the rules (e.g., broadly advertise on social media) and face no consequences.
+
+There is no possible adjustment to the policy that could work.
+Whatever the embargo period is, the student will just submit to arXiv _n_ + 1 days in advance.
+If we start making the length of the embargo period too long, we run into the case where (for example) ACL notification period overlaps with the embargo period for EMNLP.
+At that point, we've effectively outlawed arXiv for unpublished work.
+I don't hear anyone in the community advocating for this.
